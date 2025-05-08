@@ -1,4 +1,4 @@
-# Surenthiran-# Import required libraries
+# Import required libraries
 from transformers import pipeline
 
 # Initialize chatbot pipeline using a pre-trained model
